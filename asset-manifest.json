@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/how-to-h-ck/static/css/main.a97b09a3.chunk.css",
+    "main.js": "/how-to-h-ck/static/js/main.e8d08f61.chunk.js",
+    "main.js.map": "/how-to-h-ck/static/js/main.e8d08f61.chunk.js.map",
+    "runtime-main.js": "/how-to-h-ck/static/js/runtime-main.48079468.js",
+    "runtime-main.js.map": "/how-to-h-ck/static/js/runtime-main.48079468.js.map",
+    "static/js/2.1dd2f62d.chunk.js": "/how-to-h-ck/static/js/2.1dd2f62d.chunk.js",
+    "static/js/2.1dd2f62d.chunk.js.map": "/how-to-h-ck/static/js/2.1dd2f62d.chunk.js.map",
+    "static/js/3.1b910e9b.chunk.js": "/how-to-h-ck/static/js/3.1b910e9b.chunk.js",
+    "static/js/3.1b910e9b.chunk.js.map": "/how-to-h-ck/static/js/3.1b910e9b.chunk.js.map",
+    "index.html": "/how-to-h-ck/index.html",
+    "static/css/main.a97b09a3.chunk.css.map": "/how-to-h-ck/static/css/main.a97b09a3.chunk.css.map",
+    "static/js/2.1dd2f62d.chunk.js.LICENSE.txt": "/how-to-h-ck/static/js/2.1dd2f62d.chunk.js.LICENSE.txt",
+    "static/media/rick-roll.feaacecc.jpg": "/how-to-h-ck/static/media/rick-roll.feaacecc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48079468.js",
+    "static/js/2.1dd2f62d.chunk.js",
+    "static/css/main.a97b09a3.chunk.css",
+    "static/js/main.e8d08f61.chunk.js"
+  ]
+}
